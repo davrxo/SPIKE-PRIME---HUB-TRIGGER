@@ -1,0 +1,9 @@
+{"i":"SG5K","m":"program_execute","p":{"slotid":1}}
+{"m":12,"p":[null, false]}
+{"i":"SG5K","r":null}
+{"m":12,"p":["faSV8zFrAKe0", true]}
+{"m":7,"p":"FfDF4E_nvTQ1O7Ts1FOA"}
+{"m":11,"p":["7CqRhvkf_8OpNyGLF1vb", {}, {}, {"move_speed": 20, "move_pair": ["F", "E"]}]}
+{"m":8,"p":"FfDF4E_nvTQ1O7Ts1FOA"}
+{"m":11,"p":["7CqRhvkf_8OpNyGLF1vb", {}, {}, {"move_last_status": 0}]}
+//Mandas a llamar el programa que se encuentra en el slot 1 del hub
